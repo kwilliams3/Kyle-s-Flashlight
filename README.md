@@ -6,6 +6,9 @@ This was the first Android app I've ever made. I made this app for android phone
 ### Getting Started
 You can easily find [Kyle's Flashlight](https://play.google.com/store/apps/details?id=kyle.flashlight&hl=en) on the Google Play Store!
 
+**\*\*EDIT\*\***  
+Sometime after releasing this application, the Google Play Store started requiring developers to have a privacy policy for any application they owned on the store. By this time, most phones came preinstalled with a flashlight on them. I felt it wasn't worth the effort to continue updating my application whenever Google changed its policies, so I removed Kyle's Flashlight from the Google Play Store. If you'd still like to try out the application, check out the [latest release](https://github.com/kwilliams3/Kyle-s-Flashlight/releases/tag/Cherry-Pie) where you can download the .apk for it.
+
 ### Disclaimer
 This app may not work on your phone if any of the following conditions apply to you. These conditions often lead to problems with flashlight apps in general.
 1. You have a flashlight app already installed on your phone.  
